@@ -1,0 +1,1 @@
+Path to python27\python -m pip install pillow
